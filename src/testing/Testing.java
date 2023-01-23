@@ -19,6 +19,10 @@ public class Testing {
         //Now we are making the chnage in the netbaens 
         //but that chnage is not saved in the net beans local repository
         System.out.println("new code in netbeans");
+        
+        //Now we are making a chnge in the github repository
+        //the chnge will we automaticlyy added as we are pushing Pull operator
+        System.out.println("new code in GitHub repository");
     }
     
 }
